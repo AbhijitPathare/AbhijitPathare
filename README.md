@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Abhii !! 🐱‍👤</h1>
+<h1 align="center">Hey, I'm Abhii !! ⚙💻</h1>
 
 <p align="center">
   <img
