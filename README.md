@@ -1,3 +1,9 @@
+## Real Estate Management System
+
+![Node.js CI](https://github.com/YOUR-USERNAME/YOUR-REPO/actions/workflows/node.yml/badge.svg)
+
+Node.js + Express + MySQL based CRUD application.
+
 # 💫 About Me:
 Hi 👋 I'm Abhijit Pathare<br><br>I am a Web Developer focused on backend development.<br>I build CRUD-based web applications using Node.js, Express, EJS, and MySQL.<br>I enjoy working on real-world projects and continuously improving my skills.<br><br>Skills: Node.js, Express.js, MySQL, EJS, HTML, CSS, Bootstrap  <br>Projects: Real Estate Management System, Mini CRUD Applications  <br>
 
