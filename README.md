@@ -1,5 +1,12 @@
+<h1 align="center">Hey, I'm Abhiiii 💻</h1>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav343343&layout=compact
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;Building+scalable+cloud+systems;Automating+infrastructure+with+DevOps;Focused+on+reliability+and+growth"
+    alt="Typing SVG"
+  />
+</p>
+
 
 
 # 💫 About Me:
