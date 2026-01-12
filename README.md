@@ -8,10 +8,11 @@
 </p>
 
 
-
-# 💫 About Me:
-Hi 👋 I'm Abhijit Pathare<br><br>I am a Web Developer focused on backend development.<br>I build CRUD-based web applications using Node.js, Express, EJS, and MySQL.<br>I enjoy working on real-world projects and continuously improving my skills.<br><br>Skills: Node.js, Express.js, MySQL, EJS, HTML, CSS, Bootstrap  <br>Projects: Real Estate Management System, Mini CRUD Applications  <br>
-
+## 🚀 About Me
+Hi there! 👋 I'm a **Full Stack Web Developer** passionate about building modern and scalable web applications.  
+I work with **frontend and backend technologies** to create complete, user-friendly solutions.  
+Interested in **web development, backend logic, databases, and REST APIs**, with hands-on experience in  
+**HTML, CSS, JavaScript, Node.js, Express.js, EJS, MySQL, and CRUD-based applications 🚀**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1C6jtborV4/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_abhijit_pathare_?igsh=ZG13dThiZ3kxcGN0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhijit-pathare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijitpathare2006@gmail.com) 
