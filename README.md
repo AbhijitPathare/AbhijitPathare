@@ -1,6 +1,6 @@
 ## Real Estate Management System
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhav343343&label=Profile%20Views)
 
-![Node.js CI](https://github.com/YOUR-USERNAME/YOUR-REPO/actions/workflows/node.yml/badge.svg)
 
 Node.js + Express + MySQL based CRUD application.
 
