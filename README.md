@@ -23,6 +23,7 @@ Interested in **web development, backend logic, databases, and REST APIs**, with
 ![](https://github-readme-stats.vercel.app/api?username=AbhijitPathare&theme=dark&show_icons=true)
 ![](https://streak-stats.demolab.com?user=AbhijitPathare&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitPathare&layout=compact&theme=dark)
+
 ## 📈 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhijitPathare&theme=github-dark)
 
