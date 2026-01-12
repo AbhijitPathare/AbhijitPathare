@@ -23,9 +23,8 @@ Interested in **web development, backend logic, databases, and REST APIs**, with
 ![](https://github-readme-stats.vercel.app/api?username=AbhijitPathare&theme=dark&show_icons=true)
 ![](https://streak-stats.demolab.com?user=AbhijitPathare&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitPathare&layout=compact&theme=dark)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhijitPathare&theme=github-dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbhijitPathare&limit=5&theme=dark&combine_all_yearly_contributions=true)
