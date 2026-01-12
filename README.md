@@ -1,8 +1,6 @@
-## Real Estate Management System
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhav343343&label=Profile%20Views)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav343343&layout=compact
 
-Node.js + Express + MySQL based CRUD application.
 
 # 💫 About Me:
 Hi 👋 I'm Abhijit Pathare<br><br>I am a Web Developer focused on backend development.<br>I build CRUD-based web applications using Node.js, Express, EJS, and MySQL.<br>I enjoy working on real-world projects and continuously improving my skills.<br><br>Skills: Node.js, Express.js, MySQL, EJS, HTML, CSS, Bootstrap  <br>Projects: Real Estate Management System, Mini CRUD Applications  <br>
